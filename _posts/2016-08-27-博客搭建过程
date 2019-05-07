@@ -1,0 +1,20 @@
+---
+layout: post
+#标题配置
+title:  基于jekyll、github pages的博客搭建过程
+#时间配置
+date:   2019-05-07 09:38:00 +0800
+#大类配置
+categories: document
+#小类配置
+tag: 教程
+---
+
+* content
+{:toc}
+
+# 这是一级标题
+我是正文。我是正文。我是正文。我是正文。我是正文。我是正文。
+主要参考了[利用 GitHub Pages 快速搭建个人博客](https://www.jianshu.com/p/e68fba58f75c)
+这里有修改域名：[用Jekyll搭建的Github Pages个人博客](https://www.jianshu.com/p/88c9e72978b4)
+这里有很多[主题](http://jekyllthemes.org/)可以下载
